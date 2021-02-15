@@ -10,3 +10,9 @@
 <img src="./img/4-codigo_resultadoteste_leapYears.png" width="700">
 <h3>Código e o Resultado do TDD do Exerc tempConversion</h3>
 <img src="./img/5-codigo_resultadoteste_tempConversion.png" width="700">
+<h3>Erika -> repeatString: </h3>
+<img src="./img/Erika1.jpeg" width="700">
+<h3>Erika -> reverseString: </h3>
+<img src="./img/Erika2.jpeg" width="700">
+<h3>Erika -> removeFromArray: </h3>
+<img src="./img/Erika3.jpeg" width="700">
